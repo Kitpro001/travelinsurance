@@ -17,13 +17,21 @@ Backend API for the Travel Insurance application.
 
 ## Setup
 1. Clone the backend repository
-```https://github.com/Kitpro001/travelinsurance.git```
+```
+git clone https://github.com/Kitpro001/travelinsurance.git
+```
 
 2. Run the project. 
-```mvn spring-boot:run```
+```
+mvn spring-boot:run
+```
 
 3. The application will run on:
-```http://localhost:8081```
+```
+http://localhost:8081
+```
 
 4. Continue to setup frontend application by referring to the link below:
-```https://github.com/Kitpro001/travelinsurance-fe```
+```
+https://github.com/Kitpro001/travelinsurance-fe
+```
