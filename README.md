@@ -21,3 +21,9 @@ Backend API for the Travel Insurance application.
 
 2. Run the project. 
 ```mvn spring-boot:run```
+
+3. The application will run on:
+```http://localhost:8081```
+
+4. Continue to setup frontend application by referring to the link below:
+```https://github.com/Kitpro001/travelinsurance-fe```
